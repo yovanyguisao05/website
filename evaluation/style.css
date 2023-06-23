@@ -1,0 +1,90 @@
+body{
+font:oblique bold 120 normal;
+background-color:#b2cc9e;    
+
+}
+
+.contenedor{
+    background-color: rgba(163, 163, 25, 0.333);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.menu{
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+}
+
+.asbtrac{
+    display: flex;
+    justify-content: last baseline;
+}
+
+
+.contenedorPrincipal{
+    background-color: #8f9888;
+    height: 300px;
+}
+
+.titlee{
+    text-align: center;
+    height: 90px;
+    margin:0;
+    font-size:100px;
+    font-weight: 100;
+}
+
+.imput{
+    width: 600px;
+    height: 30px;
+    background-color: #b2cc9e;
+}
+
+
+.contenedor1{
+    display: flex;
+    width: 100%;
+    justify-content:center ;
+    text-align: center;
+    vertical-align: middle;
+    padding: 1px;
+    margin-top: 5%;
+    
+}
+
+.img1{
+    width: 20%;
+}
+
+.contenedor-principal{
+    width: 100%;
+    margin-top: 5%;
+    text-align: center;
+    
+
+   
+}
+
+.columnas{
+    width: 33%;
+    display:flex;
+    padding: 0% 2% 0% 2%;
+}
+
+.textos-columna{
+    width: 80%;
+    text-align: left;
+    margin-left: 10%;
+    
+}
+
+.primeraimg{
+    height: 84px;
+    margin-top: 23%;
+}
+
+.end{
+    text-align: center;
+    width: 100%;
+    padding: 3%;
+}
